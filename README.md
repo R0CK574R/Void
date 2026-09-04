@@ -3,7 +3,7 @@
 A top-down arcade survival shooter. Endless waves, escalating enemies,
 and a boss every 10 waves. Dark galaxy, gore aesthetic.
 
-**▶ Play:** https://r0ck574r.github.io/void/
+**▶ Play:** https://r0ck574r.github.io/Void/
 
 ## Controls
 - WASD / Arrows — Move
